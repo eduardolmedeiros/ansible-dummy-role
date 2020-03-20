@@ -1,0 +1,12 @@
+__pycache__/
+.DS_Store
+*.retry
+.vagrant
+.vscode
+.python-version
+.pytest_cache/
+*.py[cod]
+*$py.class
+.gradle
+build/
+.env

@@ -1,0 +1,6 @@
+---
+# tasks file for ansible-dummy-role
+- name: install vim
+  package:
+    name: vim
+    state: present
