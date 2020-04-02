@@ -3,4 +3,4 @@
 - name: install nano
   package:
     name: nano
-    state: present 
+    state: present
