@@ -8,9 +8,9 @@ Requirements & Installation
 
 ```
 python3 -m venv .env
+.env/bin/pip install --upgrade pip wheel
+.env/bin/pip install -r requirements.txt
 source .env/bin/activate
-pip install --upgrade pip wheel
-pip install -r requirements.txt
 ```
 
 Enable pre-commit support
